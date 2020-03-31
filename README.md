@@ -11,4 +11,4 @@ Languages used:
 Steps to Install:
 1. Open any file in IDE or Create Virtual Environment
 2. Install library covid using "pip install covid"
-3. Run
+3. Run.
