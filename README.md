@@ -1,5 +1,4 @@
 # Corona-Virus-Tracker-by-Country
-
 Python code for tracking the details by country.
 
 Tools used:
